@@ -1,19 +1,6 @@
-### Hi there 👋
-
-<!--
-**umneunyoungp/umneunyoungp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-![header] https://capsule-render.vercel.app/api?type=slice&type=waving
-
-
-- 🔭 I’m currently working on ... this
-- 🌱 I’m currently learning ... this
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eunyoung%20Park&fontSize=90"/>
+</div>
+<div align="center">
+Hello! I am a first-year PhD student in University of Minnesota
+<img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat=square&logo=Gmail&logoColor=white"/>
